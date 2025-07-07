@@ -1,1 +1,1 @@
-if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/WordGame/sw.js', { scope: '/WordGame/' })})}
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/WordLine_Wordgame/sw.js', { scope: '/WordLine_Wordgame/' })})}
